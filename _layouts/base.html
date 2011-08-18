@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>{{ page.title }}</title>
+    <link rel='stylesheet' href='/css/screen.css' type='text/css' media="screen">
+    <link rel='shortcut icon' href='/images/favicon.ico'>
+    <link rel='alternate' href='http://sinatra.github.com/feed.xml' type='application/atom+xml' title='Sinatra Blog'>
+  </head>
+
+  <body id='{{ page.id }}'>
+    <a href="http://github.com/kgplug"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub" /></a>
+    <div id='wrap'>
+      {{ content }}
+    </div>
+  </body>
+</html>
