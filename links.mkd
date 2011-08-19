@@ -1,0 +1,21 @@
+---
+layout: base
+title: Frequently Asked Questions
+id: faq
+---
+
+[Linus on trivial patches]()
+
+[Software design in Ruby](http://vimeo.com/26330100)
+
+[Jim Zemlin on the state of Linux](http://video.linux.com/video/1964)
+
+[Example coding style](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/CodingStyle)
+
+[Guidelines for submitting patches](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/SubmittingPatches)
+
+[Visual git guide](http://marklodato.github.com/visual-git-guide/index-en.html)
+
+[The Ruby Book](http://www.rubycentral.com/pickaxe/)
+
+[The Python Book]()
