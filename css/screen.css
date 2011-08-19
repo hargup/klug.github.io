@@ -146,7 +146,7 @@ hr {
 
 /* HOME */
 
-body#home {
+body {
   background: #fff url(../images/watermark.png) no-repeat fixed right 130px;
 }
 #home #content {
