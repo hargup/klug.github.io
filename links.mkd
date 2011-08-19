@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 id: faq
 ---
 
-[Linus on trivial patches]()
+[Linus on trivial patches](https://lkml.org/lkml/2004/12/20/255)
 
 [Software design in Ruby](http://vimeo.com/26330100)
 
