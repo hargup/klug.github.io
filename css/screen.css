@@ -147,7 +147,7 @@ hr {
 /* HOME */
 
 body#home {
-  background: #fff url(../images/legend.gif) no-repeat fixed right 130px;
+  background: #fff url(../images/watermark.png) no-repeat fixed right 130px;
 }
 #home #content {
   font-size:1.05em;
