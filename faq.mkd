@@ -1,11 +1,8 @@
 ---
-layout: base
+layout: page
 title: Frequently Asked Questions
 id: faq
 ---
-
-Frequently Asked Questions
-==========================
 
 **Q: Who?**
 
