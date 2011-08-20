@@ -1,11 +1,10 @@
 ---
-layout: base
-title: Frequently Asked Questions
+layout: page
+title: Resources
 id: faq
 ---
 
-Links
-=====
+###Links
 
 * [Linus on trivial patches](https://lkml.org/lkml/2004/12/20/255)
 * [Software design in Ruby](http://vimeo.com/26330100)
