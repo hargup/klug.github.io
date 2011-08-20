@@ -61,8 +61,7 @@ body {
 
 #content {
   color:#111;
-  max-width:52em;
-  min-width:27em;
+  width: 100%
   margin:7px auto;
   border-top:2px solid #837d7c;
   padding-top:10px;
@@ -158,29 +157,6 @@ body {
 #home #head, #home #foot {
   display:none;
 }
-.pipe {
-  clear:both;
-  padding:50px 0;
-}
-.pipe p {
-  color:#000;
-  font-size:62px;
-  font-family:'georgia', 'bitstream vera serif', serif;
-  letter-spacing:-3px;
-  line-height:1;
-  text-align:right;
-  margin:0em 43% 0 0;
-  padding:0 60px 0 0;
-}
-.pipe pre {
-  float:right;
-  background:transparent;
-  font-size:28px;
-  margin:0;
-  padding:5px 0 0 0;
-  width:42%;
-  border-width:0;
-}
 .pipe pre code {
   color:#666;
   background:transparent;
@@ -191,27 +167,12 @@ body {
 .pipe.shell pre {
   font-size:18px;
 }
-.pipe.nav p {
-  font-size:100px;
-  letter-spacing:-6px;
-}
-.pipe.nav pre {
+.pipe.nav div {
   font-size:36px;
   padding-top:20px;
   text-transform:uppercase;
   letter-spacing:4px;
   line-height:1.25;
-}
-.pipe.nav {
-  padding:25px 0 50px 0;
-}
-.pipe.nav a, .pipe.nav a:link, .pipe.nav a:visited {
-  color:#444;
-  text-decoration:none;
-}
-.pipe.nav a:hover {
-  color:#000;
-  text-decoration:underline;
 }
 
 /* README */
@@ -289,4 +250,52 @@ body#about #content strong, body#about #content a {
 }
 #book pre {
   overflow:auto;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  text-align: right;
+  padding: 1%;
+  color:#000;
+  font-size:62px;
+  font-family:'georgia', 'bitstream vera serif', serif;
+  letter-spacing:-3px;
+  line-height:1;
+}
+.page {
+  width: 60%;
+  float: left;
+  text-align: left;
+  padding: 1%;
+  margin-left: 5%;
+  background:transparent;
+  border-width:0;
+}
+#klug {
+  font-size:100px;
+  letter-spacing:-6px;
+}
+#nav {
+  padding:25px 0 50px 0;
+  font-size:36px;
+  padding-top:20px;
+  text-transform:uppercase;
+  letter-spacing:4px;
+  line-height:1.25;
+}
+#nav a, #nav a:link, #nav a:visited {
+  color:#444;
+  text-decoration:none;
+}
+#nav a:hover {
+  color:#000;
+  text-decoration:underline;
+}
+.page #title {
+  /*font-size: 28px;*/
+}
+.page #body {
+  text-align: justify;
+  line-height: 1.5em;
 }
