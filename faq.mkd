@@ -29,9 +29,9 @@ And yes, we have both Vim and Emacs users.
 **Q: I'm sold. Where do I sign up?**
 
 If you have something interesting to talk about, don't mind defending
-your opinions and write code for fun; drop by at `##geekbhaat` on
-Freenode.  If you too are from IIT Kharagpur, we can probably meet
-over *chai* sometime.
+your opinions and write code for fun; drop by at `##klug` on Freenode.
+If you too are from IIT Kharagpur, we can probably meet over *chai*
+sometime.
 
 
 **Q: What's with the watermark?**
