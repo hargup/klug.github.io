@@ -6,22 +6,32 @@ id: faq
 
 **Q: Who?**
 
-We are a group of hackers based out of IIT Kharagpur.  Calling ourselves a Linux *users* group really does not do us justice, since it is only one thing we have in common.  In fact, in many ways it is just incidental.  Which brings us to ...
+We are a group of hackers based out of IIT Kharagpur.  Calling
+ourselves a Linux *users* group really does not do us justice, since
+it is only one thing we have in common.  In fact, in many ways it is
+just incidental.  Which brings us to ...
 
 
 **Q: What do you do?**
 
-Hack the good hack.  Disagree about everything from the taste of today's *poha* to Joe Satriani.  Focus and sharpen our technical skills in order to make ourselves more useful to the society.
+Hack the good hack.  Disagree about everything from the taste of
+today's *poha* to Joe Satriani.  Focus and sharpen our technical
+skills in order to make ourselves more useful to the society.
 
 
 **Q: You do realize your response had zero information.**
 
-Yes.  More concretely, we hack on git, drizzle, llvm, gdb (insert others).  We like to play with C, Ruby, Python, C++, Lisp and Haskell.  And yes, we have both Vim and Emacs users.
+Yes.  More concretely, we hack on git, drizzle, llvm, gdb (insert
+others).  We like to play with C, Ruby, Python, C++, Lisp and Haskell.
+And yes, we have both Vim and Emacs users.
 
 
 **Q: I'm sold. Where do I sign up?**
 
-If you have something interesting to talk about, don't mind defending your opinions and write code for fun; drop by at `##geekbhaat` on Freenode.  If you too are from IIT Kharagpur, we can probably meet over *chai* sometime.
+If you have something interesting to talk about, don't mind defending
+your opinions and write code for fun; drop by at `##geekbhaat` on
+Freenode.  If you too are from IIT Kharagpur, we can probably meet
+over *chai* sometime.
 
 
 **Q: What's with the watermark?**
@@ -34,7 +44,9 @@ start off with Ubuntu.
 
 **Q: Faces?**
 
-Most of us maintain personal websites:
+Although this list is by no means complete, it is quite representative
+of what we're like:
+
 * [Anurag Priyam](http://yeban.in)
 * [Ramkumar Ramachandra](http://artagnon.com)
 * [Sanjoy Das](http://playingwithpointers.com)
