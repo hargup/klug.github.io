@@ -24,6 +24,14 @@ Yes.  More concretely, we hack on git, drizzle, llvm, gdb (insert others).  We l
 If you have something interesting to talk about, don't mind defending your opinions and write code for fun; drop by at `##geekbhaat` on Freenode.  If you too are from IIT Kharagpur, we can probably meet over *chai* sometime.
 
 
+**Q: What's with the watermark?**
+
+It's the Debian logo.  Most (if not all) of us use Debian GNU/Linux.
+After distro-hopping for many years, we've found that this is a great
+distribution for developers.  However, we recommend that new people
+start off with Ubuntu.
+
+
 **Q: Faces?**
 
 Most of us maintain personal websites:
