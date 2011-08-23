@@ -7,6 +7,7 @@ id: faq
 ###Links
 
 * [Linus on trivial patches](https://lkml.org/lkml/2004/12/20/255)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - Great beginner programming book
 * [Software design in Ruby](http://vimeo.com/26330100)
 * [Jim Zemlin on the state of Linux](http://video.linux.com/video/1964)
 * [Example coding style](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/CodingStyle)
