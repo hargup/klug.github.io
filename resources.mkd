@@ -1,17 +1,29 @@
 ---
 layout: page
 title: Resources
-id: faq
+id: resources
 ---
 
-###Links
-
-* [Linus on trivial patches](https://lkml.org/lkml/2004/12/20/255)
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) - Great beginner programming book
+###Technical talks/ writings
+* The chairman of Linux Foundation on the state of Linux: [Jim Zemlin on Linux](http://video.linux.com/video/1964)
+* An inspiring email about the importance of trivial patches: [Linus on trivial patches](https://lkml.org/lkml/2004/12/20/255)
+* The OSCON 2007 keynote talk: [Simon Peyton Jones on Software Transactional Memory](blip.tv/oreilly-open-source-convention/oscon-2007-simon-peyton-jones-322473)
+* Linus Torvalds talks; a rare occasion: [Torvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8)
+* Git's maintainer on his life: [Junio Hamano interviewed](http://www.youtube.com/watch?v=qs_xS1Y6nGc)
 * [Software design in Ruby](http://vimeo.com/26330100)
-* [Jim Zemlin on the state of Linux](http://video.linux.com/video/1964)
-* [Example coding style](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/CodingStyle)
-* [Guidelines for submitting patches](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/SubmittingPatches)
-* [Visual git guide](http://marklodato.github.com/visual-git-guide/index-en.html)
-* [The Ruby Book](http://www.rubycentral.com/pickaxe/)
-* [The Python Book]()
+
+###Technical books/ tutorials
+* A great beginner programming book by Zed Shaw: [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+* A good Ruby book: [Programming Ruby](http://www.rubycentral.com/pickaxe/)
+* A visual guide to the various Git concepts: [Visual Git](http://marklodato.github.com/visual-git-guide/index-en.html)
+
+###Guidelines for contributing
+* Coding style followed in the Linux kernel: [Documentation/CodingStyle](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/CodingStyle)
+* Guidelines for submitting patches to the Linux kernel: [Documentation/SubmittingPatches](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/SubmittingPatches)
+* [Reporting Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
+* Eric Raymond on asking intelligent questions: [ESR on smart questions](http://catb.org/~esr/faqs/smart-questions.html)
+
+###General
+* A 2009 TED on mosquitoes, malaria and education: [Bill Gates Unplugged](http://www.ted.com/talks/bill_gates_unplugged.html)
+* A 2005 TED talk by U2's lead singer: [Bono on Africa](http://www.ted.com/talks/lang/eng/bono_s_call_to_action_for_africa.html)
+* A 2009 TED India talk in India, Mysore: [Shashi Tharoor on "soft" power](http://www.ted.com/talks/lang/eng/shashi_tharoor.html)
