@@ -5,8 +5,8 @@ id: home
 ---
 
 We're still in the process of formalizing the various aspects of KLUG.
-For the moment, please join `##klug` on Freenode IRC or use the
-[Google Group](http://groups.google.com/group/kgplug) to start talking
-to us.
+For the moment, please join `#klug-devel` on Freenode IRC (using
+[this](http://webchat.freenode.net)) or use the [Google
+Group](http://groups.google.com/group/kgplug) to start talking to us.
 
 Thank you for your patience.
