@@ -43,8 +43,11 @@ start off with Ubuntu.
 
 **Q: Faces?**
 
-Although this list is by no means complete, it is quite representative
-of what we're like:
+We have a flat heirarchy where everyone is equal: see the full list of
+members [here](http://groups.google.com/group/kgplug/members).  Also,
+we have community maintainers to represent us and do regular
+maintenance tasks.  Until the first elections, these people are
+temporarily serving as maintainers:
 
 * [Anurag Priyam](http://yeban.in)
 * [Ramkumar Ramachandra](http://artagnon.com)
