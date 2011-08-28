@@ -11,6 +11,7 @@ id: resources
 * Linus Torvalds talks; a rare occasion: [Torvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8)
 * Git's maintainer on his life: [Junio Hamano interviewed](http://www.youtube.com/watch?v=qs_xS1Y6nGc)
 * [Software design in Ruby](http://vimeo.com/26330100)
+* An cute Haskell tutorial: [Learn you a Haskell for great good!](http://learnyouahaskell.com/)
 
 ###Technical books/ tutorials
 * A great beginner programming book by Zed Shaw: [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
