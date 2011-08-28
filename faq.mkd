@@ -21,9 +21,9 @@ skills in order to make ourselves more useful to the society.
 
 **Q: You do realize your response had zero information.**
 
-Yes.  More concretely, we hack on git, drizzle, llvm, gdb (insert
-others).  We like to play with C, Ruby, Python, C++, Lisp and Haskell.
-And yes, we have both Vim and Emacs users.
+Yes.  More concretely, we hack on git, drizzle, llvm, gdb, sympy
+(insert others).  We like to play with C, Ruby, Python, C++, Lisp and
+Haskell.  And yes, we have both Vim and Emacs users.
 
 
 **Q: I'm sold. Where do I sign up?**
