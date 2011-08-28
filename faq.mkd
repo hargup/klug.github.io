@@ -27,18 +27,19 @@ and Haskell.  And yes, we have both Vim and Emacs users.
 
 **Q: I'm sold. Where do I sign up?**
 
-If you have something interesting to talk about, don't mind defending
-your opinions and write code for fun; drop by at `#klug-devel` on
-Freenode IRC (using [this](http://webchat.freenode.net)).  If you too
-are from IIT Kharagpur, we can probably meet over *chai* sometime.
+If you don't mind defending your opinions and writing code for fun,
+participate in the community; start talking on the [mailing
+list](http://groups.google.com/group/kgplug) and the `#klug-devel`
+Freenode IRC channel (using [this](http://webchat.freenode.net)). If
+you're from IIT Kharagpur, we can probably meet over *chai* sometime.
 
 
 **Q: What's with the watermark?**
 
-It's the Debian logo.  Most (if not all) of us use Debian GNU/Linux.
-After distro-hopping for many years, we've found that this is a great
-distribution for developers.  However, we recommend that new people
-start off with Ubuntu.
+It's the Debian logo, and it signifies who we are in many ways.
+Debian is a large community-driven project with elected leaders.
+Additionally, many of our oldest members use Debian.  However, we
+recommend that new people start off with Ubuntu.
 
 
 **Q: Faces?**
