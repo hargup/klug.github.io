@@ -40,3 +40,4 @@ our founding principles:
    not make you Superman.
 4. We're not a casual hobby group that reads HackerNews and farts
    rainbows all day.  We're very serious software engineers.
+5. Talk is cheap. Show us the code.
