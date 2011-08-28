@@ -25,14 +25,9 @@ Yes.  More concretely, we hack on git, drizzle, llvm, gdb, sympy and
 many other projects.  We like to play with C, Ruby, Python, C++, Lisp
 and Haskell.  And yes, we have both Vim and Emacs users.
 
-**Q: I'm sold. Where do I sign up?**
+**Q: I'm sold. How do I participate?**
 
-If you don't mind defending your opinions and writing code for fun,
-participate in the community; start talking on the [mailing
-list](http://groups.google.com/group/kgplug) and the `#klug-devel`
-Freenode IRC channel (using [this](http://webchat.freenode.net)). If
-you're from IIT Kharagpur, we can probably meet over *chai* sometime.
-
+See [PARTICIPATE](/participate).
 
 **Q: What's with the watermark?**
 
