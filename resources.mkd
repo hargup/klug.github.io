@@ -24,6 +24,10 @@ id: resources
 * [Reporting Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 * Eric Raymond on asking intelligent questions: [ESR on smart questions](http://catb.org/~esr/faqs/smart-questions.html)
 
+###Community Building
+* An excellent book available freely online: [The Art of Community](http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf)
+* The [Ubuntu Code of Conduct](http://www.ubuntu.com/community/conduct) is a list of guidelines that has kept a healthy community together.
+
 ###General
 * A 2009 TED on mosquitoes, malaria and education: [Bill Gates Unplugged](http://www.ted.com/talks/bill_gates_unplugged.html)
 * A 2005 TED talk by U2's lead singer: [Bono on Africa](http://www.ted.com/talks/lang/eng/bono_s_call_to_action_for_africa.html)
