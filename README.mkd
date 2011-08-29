@@ -1,0 +1,29 @@
+klug.github.com Website
+=======================
+
+How to make changes to the website, and get it merged into upstream:
+
+1. Fork the project on GitHub, so that you have your own copy of the
+project to play with.
+
+2. Make the changes that you want and split the changes up into
+logical commits.  Don't forget to signoff on them.
+
+3. Please read and try to follow
+[Documentation/SubmittingPatches](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/SubmittingPatches).
+Since 'git-send-email' will not work from behind a restrictive
+firewall, either send one of the website maintainers an email with the
+patches attached, or send a "Pull Request" on GitHub if there are >10
+commits.
+
+4.  Alternatively, if you think the changes will impact KLUG
+siginificantly, or you feel that your changes require discussion,
+please post the patches to the mailing list.
+
+5. The website maintainers will download the patches from their email
+inboxes, and apply them with git-am.  They might choose to make minor
+changes or drop a few patches before pushing them to upstream.  They
+will reply to your email with a rationale if necessary.  Please pull
+the latest code from upstream to see your commits.
+
+Thanks, and enjoy contributing!
