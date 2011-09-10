@@ -7,7 +7,7 @@ id: resources
 ###Technical talks/ writings
 * The chairman of Linux Foundation on the state of Linux: [Jim Zemlin on Linux](http://video.linux.com/video/1964)
 * An inspiring email about the importance of trivial patches: [Linus on trivial patches](https://lkml.org/lkml/2004/12/20/255)
-* The OSCON 2007 keynote talk: [Simon Peyton Jones on Software Transactional Memory](blip.tv/oreilly-open-source-convention/oscon-2007-simon-peyton-jones-322473)
+* The OSCON 2007 keynote talk: [Simon Peyton Jones on Software Transactional Memory](http://blip.tv/oreilly-open-source-convention/oscon-2007-simon-peyton-jones-322473)
 * Linus Torvalds talks; a rare occasion: [Torvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8)
 * Git's maintainer on his life: [Junio Hamano interviewed](http://www.youtube.com/watch?v=qs_xS1Y6nGc)
 * [Software design in Ruby](http://vimeo.com/26330100)
