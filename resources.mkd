@@ -10,7 +10,7 @@ id: resources
 * The OSCON 2007 keynote talk: [Simon Peyton Jones on Software Transactional Memory](http://blip.tv/oreilly-open-source-convention/oscon-2007-simon-peyton-jones-322473)
 * Linus Torvalds talks; a rare occasion: [Torvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8)
 * Git's maintainer on his life: [Junio Hamano interviewed](http://www.youtube.com/watch?v=qs_xS1Y6nGc)
-* [Software design in Ruby](http://vimeo.com/26330100)
+* Sandi Metz on Software Design: [Less - The Path to Better Design](http://vimeo.com/26330100)
 * An cute Haskell tutorial: [Learn you a Haskell for great good!](http://learnyouahaskell.com/)
 
 ###Technical books/ tutorials
