@@ -17,6 +17,7 @@ id: resources
 * A great beginner programming book by Zed Shaw: [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * A good Ruby book: [Programming Ruby](http://www.rubycentral.com/pickaxe/)
 * A visual guide to the various Git concepts: [Visual Git](http://marklodato.github.com/visual-git-guide/index-en.html)
+* A really good (but slightly outdated) introduction to UNIX systems: The UNIX Programming Environment
 
 ###Guidelines for contributing
 * Coding style followed in the Linux kernel: [Documentation/CodingStyle](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/CodingStyle)
