@@ -4,6 +4,22 @@ title: Participate
 id: participate
 ---
 
+### Welcome to KLUG.
+
+* The first rule of KLUG is: you do not just talk about KLUG.
+* The second rule of KLUG is: you DO NOT just talk about KLUG!
+* Third rule of KLUG: someone yells "stop!", goes limp, taps out,
+the talk is over.
+* Fourth rule: only one guy speaks at a time.
+* Fifth rule: one topic at a time, fellas.
+* Sixth rule: No suits, no ties.
+* Seventh rule: talks will go on as long as they have to, unless we get
+bored or the meeting is taking up more than an hour.
+* And the eighth and final rule: if this is your first time at KLUG, you
+have to talk. 
+
+Getting to the finer details ...
+
 To participate, join the [mailing
 list](http://groups.google.com/group/kgplug), the `#klug-devel`
 Freenode IRC channel (using [this](http://webchat.freenode.net)).  The
