@@ -6,19 +6,41 @@ id: participate
 
 ### Welcome to KLUG.
 
-* The first rule of KLUG is: you do not just talk about KLUG.
-* The second rule of KLUG is: you DO NOT just talk about KLUG!
-* Third rule of KLUG: someone yells "stop!", goes limp, taps out,
-the talk is over.
-* Fourth rule: only one guy speaks at a time.
-* Fifth rule: one topic at a time, fellas.
-* Sixth rule: No suits, no ties.
-* Seventh rule: talks will go on as long as they have to, unless we get
-bored or the meeting is taking up more than an hour.
-* And the eighth and final rule: if this is your first time at KLUG, you
-have to talk. 
+KLUG is an abbreviation for Kharagpur Linux Users' Group.  We chose
+this acronym not because the founders are linux fanboys (they are, but
+that is incidental) but because "Linux User Group" is a popular idiom
+for local hacker and programmer groups; which is what we pretend to
+be.  Read on for The Truth (TM).
 
-Getting to the finer details ...
+#### Our view on hacking
+
+Hacking isn't really about computers -- it is about logically coercing
+a system to do what we want it to do.  Within this definition Joyce
+hacked the English language and Freud the human mind just as much as
+Torvalds hacked his computer.  Everyone doing something likely to be
+interesting to an educated audience is welcome to join klug.
+
+
+#### What do we do?
+
+KLUG is infrastructure, not policy.  We don't have common goals (or a
+fest!) that we work towards.  This is both good and bad.
+
+This is good since within KLUG, the _usefulness_ of your work is a
+matter of taste; and as they say, there is no right taste or bad
+taste, just good taste and bad taste.
+
+This is bad since you, individually, cannot depend on KLUG for
+direction.  We're anarchists, and some people may find that
+disorienting (and maybe even offensive).
+
+What we _do_ offer is networking with people doing interesting things
+-- in a way, KLUG is like Facebook or LinkedIn but waaay cooler.  It
+is like a beehive with no queen bee.  It is the coffee-house where
+people loudly argue about useless things.
+
+
+#### How do I join?
 
 To participate, join the [mailing
 list](http://groups.google.com/group/kgplug), the `#klug-devel`
