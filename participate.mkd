@@ -44,7 +44,8 @@ people loudly argue about useless things.
 
 To participate, join the [mailing
 list](http://groups.google.com/group/kgplug), the `#klug-devel`
-Freenode IRC channel (using [this](http://webchat.freenode.net)).  The
+Freenode IRC channel (using [this](http://webchat.freenode.net); ask
+for an [IRCCloud](https://irccloud.com) invite after joining).  The
 IRC channel is [publicly
 logged](http://colabti.org/irclogger/irclogger_logs/klug-devel) and
 the mailing list archives are also [publicly
