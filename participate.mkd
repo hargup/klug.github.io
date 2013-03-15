@@ -27,7 +27,7 @@ KLUG is infrastructure, not policy.  We don't have common goals (or a
 fest!) that we work towards.  This is both good and bad.
 
 This is good since within KLUG, the _usefulness_ of your work is a
-matter of taste; and as they say, there is no right taste or bad
+matter of taste; and as they say, there is no right taste or wrong
 taste, just good taste and bad taste.
 
 This is bad since you, individually, cannot depend on KLUG for
