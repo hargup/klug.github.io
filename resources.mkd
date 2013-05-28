@@ -4,32 +4,23 @@ title: Resources
 id: resources
 ---
 
-###Technical talks/ writings
+### Technical talks/ writings
 * The chairman of Linux Foundation on the state of Linux: [Jim Zemlin on Linux](http://video.linux.com/video/1964)
 * An inspiring email about the importance of trivial patches: [Linus on trivial patches](https://lkml.org/lkml/2004/12/20/255)
 * The OSCON 2007 keynote talk: [Simon Peyton Jones on Software Transactional Memory](http://blip.tv/oreilly-open-source-convention/oscon-2007-simon-peyton-jones-322473)
-* Linus Torvalds talks; a rare occasion: [Torvalds on Git](http://www.youtube.com/watch?v=4XpnKHJAok8)
-* Git's maintainer on his life: [Junio Hamano interviewed](http://www.youtube.com/watch?v=qs_xS1Y6nGc)
+* Git's maintainer, on his life (he's Japenese): [Junio Hamano interviewed](http://www.youtube.com/watch?v=qs_xS1Y6nGc)
 * Sandi Metz on Software Design: [Less - The Path to Better Design](http://vimeo.com/26330100)
 * An cute Haskell tutorial: [Learn you a Haskell for great good!](http://learnyouahaskell.com/)
 
-###Technical books/ tutorials
+### Technical books/ tutorials
 * A great beginner programming book by Zed Shaw: [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * A good Ruby book: [Programming Ruby](http://www.rubycentral.com/pickaxe/)
-* A visual guide to the various Git concepts: [Visual Git](http://marklodato.github.com/visual-git-guide/index-en.html)
-* A really good (but slightly outdated) introduction to UNIX systems: The UNIX Programming Environment
 
-###Guidelines for contributing
+### Guidelines for contributing
 * Coding style followed in the Linux kernel: [Documentation/CodingStyle](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/CodingStyle)
-* Guidelines for submitting patches to the Linux kernel: [Documentation/SubmittingPatches](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux.git;a=blob_plain;f=Documentation/SubmittingPatches)
 * [Reporting Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 * Eric Raymond on asking intelligent questions: [ESR on smart questions](http://catb.org/~esr/faqs/smart-questions.html)
 
-###Community Building
-* An excellent book available freely online: [The Art of Community](http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf)
-* The [Ubuntu Code of Conduct](http://www.ubuntu.com/community/conduct) is a list of guidelines that has kept a healthy community together.
-
-###General
-* A 2009 TED on mosquitoes, malaria and education: [Bill Gates Unplugged](http://www.ted.com/talks/bill_gates_unplugged.html)
-* A 2005 TED talk by U2's lead singer: [Bono on Africa](http://www.ted.com/talks/lang/eng/bono_s_call_to_action_for_africa.html)
+### General
+* An excellent book on open communities: [The Art of Community](http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf)
 * A 2009 TED India talk in India, Mysore: [Shashi Tharoor on "soft" power](http://www.ted.com/talks/lang/eng/shashi_tharoor.html)
