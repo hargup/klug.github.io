@@ -7,9 +7,10 @@ id: home
 Welcome.  We're a community of programmers who studied at IIT
 Kharagpur at some point in their lives.
 
-While we may be a Linux Users' Group, we're not interested in
-prompting the use of Linux.  While we practice light advertising to be
-visible to interesting people, we are not interested in popularity.
+We are not interested in the widespread promotion of Linux usage; we
+respond to people who ask for help.  To be visible to interesting
+people, we practice light advertising; generally popularity is not a
+concern.
 
 We don't think highly of ourselves, and practice no forms of control.
 There is no membership: you either partipcate or you don't.  Everyone
