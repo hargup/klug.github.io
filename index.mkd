@@ -4,40 +4,13 @@ title: Kharagpur Linux Users' Group
 id: home
 ---
 
-We're a *guild* of *hackers* at IIT Kharagpur.
+Welcome.  We're a community of programmers who studied at IIT
+Kharagpur at some point in their lives.
 
-### guild
-**noun** /gild/
+While we may be a Linux Users' Group, we're not interested in
+prompting the use of Linux.  While we practice light advertising to be
+visible to interesting people, we are not interested in popularity.
 
-1. A medieval association of craftsmen or merchants, often having
-   considerable power.
-2. An association of people for mutual aid or the pursuit of a common
-   goal.
-3. A group of species that have similar requirements and play a
-   similar role within a community.
-
-### hack·er
-**noun** /ˈhakər/
-
-1. A person who delights in having an intimate understanding of the
-   internal workings of a system, computers and computer networks in
-   particular.
-2. A person who shares an anti-authoritarian approach to software
-   development, now associated with the free software movement.
-
-What does all this have to do with Linux?  It is the equivalent of a
-hobbyist electronics kit in the digital world, a prerequisite for
-higher learning.  Like many other clubs and societies, we exist to
-motivate and drive people with similar interests.  Here are some of
-our founding principles:
-
-1. There's a thin line between advertising and Orwellian
-   mass-propoganda.  We occasionally practise light advertising.
-2. Aiding people with motivation and drive does not mean social
-   service.  We're not a social service organization or a placement
-   committee.
-3. We're not ego-feeding machines.  Using Linux or writing code does
-   not make you Superman.
-4. We're not a casual hobby group that reads HackerNews and farts
-   rainbows all day.  We're very serious software engineers.
-5. Talk is cheap. Show us the code.
+We don't think highly of ourselves, and practice no forms of control.
+There is no membership: you either partipcate or you don't.  Everyone
+is free to participate.
