@@ -4,34 +4,34 @@ title: Frequently Asked Questions
 id: faq
 ---
 
-**Q: Who?**
+#### You're different from other IIT Kharagpur societies.
 
-We are a group of hackers based out of IIT Kharagpur.  Calling
-ourselves a Linux *users* group really does not do us justice, since
-it is only one thing we have in common.  In fact, in many ways it is
-just incidental.  Which brings us to ...
+Yes, by design.
 
+#### Why do you write code?
 
-**Q: What do you do?**
+Because we enjoy it very much.  In the same way that people enjoy
+playing computer games or watching movies.
 
-Hack the good hack.  Disagree about everything from the taste of
-today's *poha* to Joe Satriani.  Focus and sharpen our technical
-skills in order to make ourselves more useful to the society.
+#### So, you enjoy solving TopCoder problems?
 
+No, they are dry, boring homework problems.  We enjoy writing real
+software.
 
-**Q: You do realize your response had zero information.**
+#### Will I be interested?
 
-Yes.  More concretely, we hack on git, drizzle, llvm, gdb, sympy and
-many other projects.  We like to play with C, Ruby, Python, C++, Lisp
-and Haskell.  And yes, we have both Vim and Emacs users.
+That's something only you can find out by looking around.
+[github.com/klug](https://github.com/klug) has a few sample projects
+we've worked on.
 
-**Q: I'm sold. How do I participate?**
+#### Who are you?!
 
-See [PARTICIPATE](/participate).
+These are some of our
+[maintainers](https://github.com/organizations/klug/settings/members).
+Otherwise, the community is just a sum of the people who have
+participated: see [participate](/participate) for archives.
 
-**Q: What's with the watermark?**
+#### How do I get started?
 
-It's the Debian logo, and it signifies who we are in many ways.
-Debian is a large community-driven project with elected leaders.
-Additionally, many of our oldest members use Debian.  However, we
-recommend that new people start off with Ubuntu.
+There's nothing much else to say.  Just read something and join the
+IRC channel to discuss it.  Again, see [participate](/participate).
