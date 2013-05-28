@@ -1,5 +1,4 @@
-klug.github.com Website
-=======================
+# klug.github.io website
 
 How to make changes to the website, and get it merged into upstream:
 
