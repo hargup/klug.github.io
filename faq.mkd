@@ -26,10 +26,10 @@ we've worked on.
 
 #### Who are you?!
 
-These are some of our
-[maintainers](https://github.com/organizations/klug/settings/members).
-Otherwise, the community is just a sum of the people who have
-participated: see [participate](/participate) for archives.
+[These](https://github.com/organizations/klug/settings/members) are
+some of our maintainers.  Otherwise, the community is just a sum of
+the people who have participated: see [participate](/participate) for
+archives.
 
 #### How do I get started?
 
