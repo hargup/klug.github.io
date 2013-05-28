@@ -4,50 +4,21 @@ title: Participate
 id: participate
 ---
 
-### Welcome to KLUG.
+To participate:
 
-KLUG is an abbreviation for Kharagpur Linux Users' Group.  We chose
-this acronym not because the founders are linux fanboys (they are, but
-that is incidental) but because "Linux User Group" is a popular idiom
-for local hacker and programmer groups; which is what we pretend to
-be.  Read on for The Truth (TM).
+1. Join the IRC channel `#klug-devel` IRC channel.  Use
+   [this](http://webchat.freenode.net), and ask for an
+   [IRCCloud](https://irccloud.com) invite after joining).
 
-#### Our view on hacking
+2. Join the [mailing list](http://groups.google.com/group/kgplug).
 
-Hacking isn't really about computers -- it is about logically coercing
-a system to do what we want it to do.  Within this definition Joyce
-hacked the English language and Freud the human mind just as much as
-Torvalds hacked his computer.  Everyone doing something likely to be
-interesting to an educated audience is welcome to join klug.
+3. Meet people in real life.  Meeting announcements happen on the
+   mailing list.
 
+The IRC channel is publicly logged [on
+Colabti](http://colabti.org/irclogger/irclogger_logs/klug-devel).
 
-#### What do we do?
-
-KLUG is infrastructure, not policy.  We don't have common goals (or a
-fest!) that we work towards.  This is both good and bad.
-
-This is good since within KLUG, the _usefulness_ of your work is a
-matter of taste; and as they say, there is no right taste or wrong
-taste, just good taste and bad taste.
-
-This is bad since you, individually, cannot depend on KLUG for
-direction.  We're anarchists, and some people may find that
-disorienting (and maybe even offensive).
-
-What we _do_ offer is networking with people doing interesting things
--- in a way, KLUG is like Facebook or LinkedIn but waaay cooler.  It
-is like a beehive with no queen bee.  It is the coffee-house where
-people loudly argue about useless things.
-
-
-#### How do I join?
-
-To participate, join the [mailing
-list](http://groups.google.com/group/kgplug), the `#klug-devel`
-Freenode IRC channel (using [this](http://webchat.freenode.net); ask
-for an [IRCCloud](https://irccloud.com) invite after joining).  The
-IRC channel is [publicly
-logged](http://colabti.org/irclogger/irclogger_logs/klug-devel) and
-the mailing list archives are also [publicly
-available](http://groups.google.com/group/kgplug/topics).  Watch for
-announcements about meetings on the mailing list.
+The mailing list archives are also publicly available
+[here](http://groups.google.com/group/kgplug/topics), but we ask you
+to "join" before as a formality (anti-spam measure).  All requests are
+approved.
