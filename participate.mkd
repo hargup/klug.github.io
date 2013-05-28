@@ -7,8 +7,8 @@ id: participate
 To participate:
 
 1. Join the IRC channel `#klug-devel` IRC channel.  Use
-   [this](http://webchat.freenode.net), and ask for an
-   [IRCCloud](https://irccloud.com) invite after joining).
+   [webchat.freenode.net](http://webchat.freenode.net) now, and ask
+   for an [IRCCloud](https://irccloud.com) invite after joining.
 
 2. Join the [mailing list](http://groups.google.com/group/kgplug).
 
