@@ -26,7 +26,7 @@ we've worked on.
 
 #### Who are you?!
 
-[These](https://github.com/organizations/klug/settings/members) are
+[These](https://github.com/klug?tab=members) are
 some of our maintainers.  Otherwise, the community is just a sum of
 the people who have participated: see [participate](/participate) for
 archives.
