@@ -8,7 +8,7 @@ id: resources
 * The chairman of Linux Foundation on the state of Linux: [Jim Zemlin on Linux](http://video.linux.com/video/1964)
 * An inspiring email about the importance of trivial patches: [Linus on trivial patches](https://lkml.org/lkml/2004/12/20/255)
 * The OSCON 2007 keynote talk: [Simon Peyton Jones on Software Transactional Memory](http://blip.tv/oreilly-open-source-convention/oscon-2007-simon-peyton-jones-322473)
-* Git's maintainer, on his life (he's Japenese): [Junio Hamano interviewed](http://www.youtube.com/watch?v=qs_xS1Y6nGc)
+* Git's maintainer, on his life (he's Japanese): [Junio Hamano interviewed](http://www.youtube.com/watch?v=qs_xS1Y6nGc)
 * Sandi Metz on Software Design: [Less - The Path to Better Design](http://vimeo.com/26330100)
 * An cute Haskell tutorial: [Learn you a Haskell for great good!](http://learnyouahaskell.com/)
 
